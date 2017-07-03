@@ -3,6 +3,7 @@ Server1 ansible_port=2200
 
 [prod]
 Server2 ansible_port=2300
+Server2 ansible_port=28300
 
 [all:vars]
 ansible_host=localhost
